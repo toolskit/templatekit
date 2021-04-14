@@ -4,8 +4,8 @@ from templatekit import IstioTemplateFactory
 from templatekit import KukuTemplateFactory
 
 # env = {
-#         "domain_9106": "bmgcn-alpha1206-9106.91act.com",
-#         "domain_9102": "bmgcn-alpha1206-9102.91act.com",
+#         "domain_9106": "bmgcn-alpha1206-9106.ddd.com",
+#         "domain_9102": "bmgcn-alpha1206-9102.ddd.com",
 #         "gateway_name": "bmgcn-gateway",
 #         "header_type": "openid",
 #         "header_value": "bmg_.*[0-1]$",
